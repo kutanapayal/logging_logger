@@ -1,4 +1,4 @@
-# logging-logger - The simplest Python logging out there!
+# logging_logger - The simplest Python logging out there!
 
 With logger, you can track events that happen when software runs with just one line of code. logger is super easy to use and handles everything for you. Just specify log filename , message that you want to pass ,level(importance which developer ascribes to the event;), and format of logs(which is totally Optional) and the rest is done for you.
 
@@ -7,15 +7,15 @@ In the following paragraphs, I am going to describe how you can get and use Scra
 
 # Getting it
 
-To download logging-logger, either fork this github repo or simply use Pypi via pip.
+To download logging_logger, either fork this github repo or simply use Pypi via pip.
 
-$ pip install logging-logger
+$ pip install logging_logger
 
 # Using it
 
-logger was programmed with ease-of-use in mind. First, import loggerClass from logger
+logger was programmed with ease-of-use in mind. First, import loggerClass from logging_logger
 
-from logging-logger import loggerClass 
+from logging_logger import loggerClass 
 
 # Print onScreen
 
