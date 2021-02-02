@@ -1,13 +1,13 @@
 from distutils.core import setup
 setup(
-  name = 'logging-logger',         
-  packages = ['logging-logger'],   
+  name = 'logging_logger',         
+  packages = ['logging_logger'],   
   version = '0.1',      
   license='MIT',        
   description = 'loggiing in python made easy - receive the log file you like in just one line of code!',   
   author = 'payal kutana',                   
   author_email = 'kutanapayal@gmail.com',    
-  url = 'https://github.com/payalkutana/logging-logger',  
+  url = 'https://github.com/payalkutana/logging_logger',  
   download_url = 'https://github.com/payalkutana/logging-logger/archive/logging-logger_01.tar.gz',   
   keywords = ['logger','logging','logs','easy'],   
   
